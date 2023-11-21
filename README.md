@@ -43,3 +43,7 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or issues, feel free to contact the project maintainers:
 
 - Sonu (notifytoskc@gmail.com)
+
+## UI Demo
+
+![UI](./1.png)
