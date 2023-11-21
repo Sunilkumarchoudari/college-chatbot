@@ -47,3 +47,5 @@ If you have any questions or issues, feel free to contact the project maintainer
 ## UI Demo
 
 ![UI](./1.png)
+![UI](./2.png)
+![UI](./3.png)
